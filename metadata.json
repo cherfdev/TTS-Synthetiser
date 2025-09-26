@@ -1,0 +1,5 @@
+{
+  "name": "TTS Synthesizer",
+  "description": "A modern text-to-speech application that synthesizes text into audio using the browser's built-in capabilities, designed to emulate a frontend for a powerful TTS backend like Coqui TTS.",
+  "requestFramePermissions": []
+}
